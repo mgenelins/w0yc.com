@@ -11,3 +11,6 @@ The Gopher Amateur Radio Club at The University of Minnesota is a technology-foc
 
 W0YC maintains an HF station on the East Bank University of Minnesota campus near 100 Union St. SE, Minneapolis, MN. We welcome station tours and club membership from students, alumni and licensed amateur radio operators!
 
+## Sites to keep updated annually:
+Jan 20, 2022: http://www.arrl.org/Groups/view/gopher-arc-of-universty-of-mn
+
